@@ -27,7 +27,7 @@ It showcases my skills, education, and work experience as a Web Developer Intern
 ## 🚀 How to View
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/joever-cv.git
+   git clone https://github.com/jmorallos/joever-cv.git
 2. Open index.html in your browser.
    or visit 👉 https://jmorallos.github.io/joever-cv/
 
