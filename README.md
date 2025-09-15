@@ -1,7 +1,7 @@
 # Joever Morallos - Web Developer Intern
 
 This repository contains my **single-page resume (CV)** created with plain HTML.  
-It showcases my skills, education, and work experience as a Web Developer Intern, and includes **SEO, Open Graph, and Twitter Card meta tags** for better visibility when shared online.  
+It showcases my skills, education, and work experience as a Web Developer Intern, and includes **SEO and Open Graph meta tags** for better visibility when shared online.  
 
 🌐 **Live Demo:** [View my CV](https://yourusername.github.io/joever-cv/)  
 
