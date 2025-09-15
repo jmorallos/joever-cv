@@ -38,3 +38,5 @@ Joever Morallos
 
 
 ## Project From [Roadmap.sh](https://roadmap.sh/projects/single-page-cv)
+
+### Submitted(https://roadmap.sh/projects/single-page-cv/solutions?u=67ff31366057cdb1a2f46d50)
