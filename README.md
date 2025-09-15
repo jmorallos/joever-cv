@@ -3,7 +3,7 @@
 This repository contains my **single-page resume (CV)** created with plain HTML.  
 It showcases my skills, education, and work experience as a Web Developer Intern, and includes **SEO and Open Graph meta tags** for better visibility when shared online.  
 
-🌐 **Live Demo:** [View my CV](https://yourusername.github.io/joever-cv/)  
+🌐 **Live Demo:** [View my CV](https://jmorallos.github.io/joever-cv/)  
 
 ---
 
@@ -29,7 +29,7 @@ It showcases my skills, education, and work experience as a Web Developer Intern
    ```bash
    git clone https://github.com/yourusername/joever-cv.git
 2. Open index.html in your browser.
-   or visit 👉 https://yourusername.github.io/joever-cv/
+   or visit 👉 https://jmorallos.github.io/joever-cv/
 
 ## 📬 Contact
 Joever Morallos
